@@ -1,7 +1,7 @@
 ### Hi, my name is Jose
 
 
-## Skills 🛠️
+# Skills 🛠️
 - Programming languages: JavaScript, Java
 - Backend development: Node.js, Express, MongoDB
 - Devops: Docker
